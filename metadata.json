@@ -1,0 +1,6 @@
+{
+  "name": "Olympiad.Libraay App",
+  "description": "An interactive platform for students in grades 1-5 to prepare for Olympiad exams with mock tests, powered by AI-driven question generation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
